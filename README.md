@@ -2,7 +2,14 @@
 
 > A Vue.js project
 
-## Build Setup
+## Build Setup  
+
+### 用传统方式（命令方式）把修改后的代码上传到github上去？
+1.git add .
+2.git commit -m "提交信息"
+3.git push
+
+#### 
 
 ``` bash
 # install dependencies
